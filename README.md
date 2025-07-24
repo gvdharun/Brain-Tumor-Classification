@@ -40,7 +40,8 @@ The project includes custom CNNs and transfer learning using pretrained models (
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone ``
+git clone `https://github.com/gvdharun/Brain-Tumor-Classification.git`
+cd Brain-Tumour-Classification
 
 ### 2. Install dependencies
 pip install `tensorflow matplotlib scikit-learn seaborn streamlit pillow numpy`
