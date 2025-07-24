@@ -7,7 +7,7 @@ import numpy as np
 # Load your trained model once at startup
 @st.cache(allow_output_mutation=True)
 def load_model():
-    model = tf.keras.models.load_model('D:\Brain\ResNet50_model.h5')  # Update path if needed
+    model = tf.keras.models.load_model('ResNet50_model.h5')  # Update path if needed
     return model
 
 model = load_model()
