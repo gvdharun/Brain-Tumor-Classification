@@ -1,4 +1,4 @@
-# Brain Tumor Classification Project 🧠🔬
+# Brain Tumor MRI Image Classification 🧠🔬
 
 ---
 ## 🚀 Project Overview
