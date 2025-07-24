@@ -41,6 +41,7 @@ The project includes custom CNNs and transfer learning using pretrained models (
 
 ### 1. Clone the repository
 git clone `https://github.com/gvdharun/Brain-Tumor-Classification.git`
+
 cd Brain-Tumour-Classification
 
 ### 2. Install dependencies
@@ -85,9 +86,13 @@ Upload MRI images and get tumor predictions with confidence scores instantly.
 
 ## 📂 Project Structure
 ├── data/ # MRI images organized by split and class
+
 ├── models/ # Trained model files (.h5)
+
 ├── notebook/ # training, evaluation notebooks
+
 ├── app.py # Streamlit application for deployment
+
 └── README.md # Project overview and instructions
 
 ---
